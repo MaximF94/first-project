@@ -6,9 +6,8 @@
 ## __жирный__
 
 
-''' java
-
- void changeStepGoal() {
+''' 
+    void changeStepGoal() {
         System.out.println("Введите новую цель: ");
         int aNewGoalByStepsPerDay = scanner.nextInt();
 
