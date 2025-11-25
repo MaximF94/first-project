@@ -7,6 +7,7 @@
 
 
 ''' java
+
  void changeStepGoal() {
         System.out.println("Введите новую цель: ");
         int aNewGoalByStepsPerDay = scanner.nextInt();
